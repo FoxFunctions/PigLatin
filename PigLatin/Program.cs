@@ -79,7 +79,7 @@ namespace PigLatin
 }
 
 
-// make piglatin into a method. call split() on userinput. Run userinput through a for loop and call piglatin on each iteration. 
+
 
 
 
